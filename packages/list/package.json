@@ -1,5 +1,5 @@
 {
-  "name": "@ant-design1/pro-list",
+  "name": "dumi-antd-components/pro-list",
   "version": "1.0.1",
   "description": "🏆 Use Ant Design List like a Pro!",
   "keywords": [
@@ -53,5 +53,6 @@
   "authors": {
     "name": "chenshuai2144",
     "email": "qixian.cs@outlook.com"
-  }
+  },
+  "gitHead": "1412d5e248bf35d1338dcc9399a1578b2c07d626"
 }

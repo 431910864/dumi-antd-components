@@ -1,5 +1,5 @@
 {
-  "name": "@ant-design1/pro-form",
+  "name": "dumi-antd-components/pro-form",
   "version": "1.0.1",
   "description": "@ant-design/pro-form",
   "keywords": [
@@ -56,5 +56,6 @@
   "authors": [
     "chenshuai2144 <qixian.cs@outlook.com> (https://github.com/chenshuai2144)",
     "yutingzhao1991 <yutingzhao1991@sina.com> (https://github.com/yutingzhao1991)"
-  ]
+  ],
+  "gitHead": "1412d5e248bf35d1338dcc9399a1578b2c07d626"
 }

@@ -1,5 +1,5 @@
 {
-  "name": "@ant-design1/pro-card",
+  "name": "dumi-antd-components/pro-card",
   "version": "1.0.1",
   "description": "@ant-design/pro-card",
   "keywords": [
@@ -51,5 +51,6 @@
   ],
   "devDependencies": {
     "rc-resize-observer": "^0.2.3"
-  }
+  },
+  "gitHead": "1412d5e248bf35d1338dcc9399a1578b2c07d626"
 }

@@ -1,5 +1,5 @@
 {
-  "name": "@ant-design1/pro-table",
+  "name": "dumi-antd-components/pro-table",
   "version": "1.0.1",
   "description": "🏆 Use Ant Design Table like a Pro!",
   "keywords": [
@@ -58,5 +58,6 @@
   "authors": [
     "chencheng <sorrycc@gmail.com> (https://github.com/sorrycc)",
     "chenshuai2144 <qixian.cs@outlook.om> (https://github.com/chenshuai2144)"
-  ]
+  ],
+  "gitHead": "1412d5e248bf35d1338dcc9399a1578b2c07d626"
 }

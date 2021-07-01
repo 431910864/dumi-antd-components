@@ -1,5 +1,5 @@
 {
-  "name": "@ant-design1/pro-field",
+  "name": "dumi-antd-components/pro-field",
   "version": "1.0.1",
   "description": "原子信息组件，统一 ProForm、ProTable、ProList、Filter 等组件里面的字段定义。",
   "homepage": "https://github.com/ant-design/pro-components/tree/master/packages/plugin-layout#readme",
@@ -47,5 +47,6 @@
   "peerDependencies": {
     "antd": "4.x",
     "react": ">=16.9.0"
-  }
+  },
+  "gitHead": "1412d5e248bf35d1338dcc9399a1578b2c07d626"
 }
