@@ -1,7 +1,7 @@
 {
-  "name": "dumi-antd-components/pro-card",
-  "version": "1.0.1",
-  "description": "@ant-design/pro-card",
+  "name": "@dumi-antd-components/pro-card",
+  "version": "1.0.0",
+  "description": "dumi-antd-components/pro-card",
   "keywords": [
     "antd",
     "admin",
@@ -11,11 +11,11 @@
   "sideEffects": [
     "*.less"
   ],
-  "homepage": "https://github.com/ant-design/pro-components/tree/master/packages/card#readme",
+  "homepage": "https://github.com/431910864/dumi-antd-components/tree/master/packages/card#readme",
   "bugs": "http://github.com/umijs/plugins/issues",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ant-design/pro-components"
+    "url": "https://github.com/431910864/dumi-antd-components"
   },
   "license": "MIT",
   "main": "lib/index.js",

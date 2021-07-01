@@ -1,18 +1,18 @@
 {
-  "name": "dumi-antd-components/pro-layout",
-  "version": "1.0.1",
-  "description": "@ant-design/pro-layout",
+  "name": "@dumi-antd-components/pro-layout",
+  "version": "1.0.0",
+  "description": "dumi-antd-components/pro-layout",
   "keywords": [
     "antd",
     "admin",
     "ant-design",
     "ant-design-pro"
   ],
-  "homepage": "https://github.com/ant-design/pro-components/tree/master/packages/layout#readme",
+  "homepage": "https://github.com/431910864/dumi-antd-components/tree/master/packages/layout#readme",
   "bugs": "http://github.com/umijs/plugins/issues",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ant-design/pro-components"
+    "url": "https://github.com/431910864/dumi-antd-components"
   },
   "license": "MIT",
   "sideEffects": [

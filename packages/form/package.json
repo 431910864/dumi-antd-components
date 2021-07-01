@@ -1,7 +1,7 @@
 {
-  "name": "dumi-antd-components/pro-form",
-  "version": "1.0.1",
-  "description": "@ant-design/pro-form",
+  "name": "@dumi-antd-components/pro-form",
+  "version": "1.0.0",
+  "description": "dumi-antd-components/pro-form",
   "keywords": [
     "antd",
     "admin",
@@ -11,11 +11,11 @@
   "sideEffects": [
     "*.less"
   ],
-  "homepage": "https://github.com/ant-design/pro-components/tree/master/packages/form#readme",
-  "bugs": "https://github.com/ant-design/pro-components/issues",
+  "homepage": "https://github.com/431910864/dumi-antd-components/tree/master/packages/form#readme",
+  "bugs": "https://github.com/431910864/dumi-antd-components/issues",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ant-design/pro-components"
+    "url": "https://github.com/431910864/dumi-antd-components"
   },
   "license": "MIT",
   "main": "lib/index.js",

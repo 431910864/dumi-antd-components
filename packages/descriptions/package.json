@@ -1,7 +1,7 @@
 {
-  "name": "dumi-antd-components/pro-descriptions",
-  "version": "1.0.1",
-  "description": "@ant-design/pro-descriptions",
+  "name": "@dumi-antd-components/pro-descriptions",
+  "version": "1.0.0",
+  "description": "dumi-antd-components/pro-descriptions",
   "keywords": [
     "antd",
     "admin",
@@ -11,11 +11,11 @@
   "sideEffects": [
     "*.less"
   ],
-  "homepage": "https://github.com/ant-design/pro-components/tree/master/packages/descriptions#readme",
+  "homepage": "https://github.com/431910864/dumi-antd-components/tree/master/packages/descriptions#readme",
   "bugs": "http://github.com/umijs/plugins/issues",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ant-design/pro-components"
+    "url": "https://github.com/431910864/dumi-antd-components"
   },
   "license": "MIT",
   "main": "lib/index.js",
