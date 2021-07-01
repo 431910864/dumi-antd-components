@@ -1,7 +1,7 @@
 {
-  "name": "@dumi-antd-components/pro-card",
-  "version": "1.0.1",
-  "description": "dumi-antd-components/pro-card",
+  "name": "@dumi-antd/pro-card",
+  "version": "1.0.0",
+  "description": "dumi-antd/pro-card",
   "keywords": [
     "antd",
     "admin",

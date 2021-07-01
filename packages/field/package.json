@@ -1,6 +1,6 @@
 {
   "name": "@dumi-antd/pro-field",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "原子信息组件，统一 ProForm、ProTable、ProList、Filter 等组件里面的字段定义。",
   "homepage": "https://github.com/431910864/dumi-antd-components/tree/master/packages/plugin-layout#readme",
   "bugs": "https://github.com/431910864/dumi-antd-components/issues",
