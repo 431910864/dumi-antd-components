@@ -1,7 +1,7 @@
 {
-  "name": "@dumi-antd-components/pro-skeleton",
+  "name": "@dumi-antd/pro-skeleton",
   "version": "1.0.1",
-  "description": "dumi-antd-components/pro-skeleton",
+  "description": "@dumi-antd/pro-skeleton",
   "keywords": [
     "antd",
     "admin",

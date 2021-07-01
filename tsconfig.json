@@ -13,16 +13,16 @@
     "declaration": true,
     "skipLibCheck": true,
     "paths": {
-      "dumi-antd-components/pro-layout": ["./packages/layout/src/index.tsx"],
-      "dumi-antd-components/pro-form": ["./packages/form/src/index.tsx"],
-      "dumi-antd-components/pro-table": ["./packages/table/src/index.tsx"],
-      "dumi-antd-components/pro-field": ["./packages/field/src/index.tsx"],
-      "dumi-antd-components/pro-skeleton": ["./packages/skeleton/src/index.tsx"],
-      "dumi-antd-components/pro-list": ["./packages/list/src/index.tsx"],
-      "dumi-antd-components/pro-provider": ["./packages/provider/src/index.tsx"],
-      "dumi-antd-components/pro-descriptions": ["./packages/descriptions/src/index.tsx"],
-      "dumi-antd-components/pro-utils": ["./packages/utils/src/index.tsx"],
-      "dumi-antd-components/pro-card": ["./packages/card/src/index.tsx"]
+      "@dumi-antd/pro-layout": ["./packages/layout/src/index.tsx"],
+      "@dumi-antd/pro-form": ["./packages/form/src/index.tsx"],
+      "@dumi-antd/pro-table": ["./packages/table/src/index.tsx"],
+      "@dumi-antd/pro-field": ["./packages/field/src/index.tsx"],
+      "@dumi-antd/pro-skeleton": ["./packages/skeleton/src/index.tsx"],
+      "@dumi-antd/pro-list": ["./packages/list/src/index.tsx"],
+      "@dumi-antd/pro-provider": ["./packages/provider/src/index.tsx"],
+      "@dumi-antd/pro-descriptions": ["./packages/descriptions/src/index.tsx"],
+      "@dumi-antd/pro-utils": ["./packages/utils/src/index.tsx"],
+      "@dumi-antd/pro-card": ["./packages/card/src/index.tsx"]
     }
   },
   "include": [

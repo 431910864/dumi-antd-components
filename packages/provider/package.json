@@ -1,7 +1,7 @@
 {
-  "name": "@dumi-antd-components/pro-provider",
+  "name": "@dumi-antd/pro-provider",
   "version": "1.0.2",
-  "description": "@ant-design/pro-provider",
+  "description": "@dumi-antd/pro-provider",
   "keywords": [
     "antd",
     "admin",

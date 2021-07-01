@@ -1,7 +1,7 @@
 {
-  "name": "@dumi-antd-components/pro-descriptions",
+  "name": "@dumi-antd/pro-descriptions",
   "version": "1.0.1",
-  "description": "dumi-antd-components/pro-descriptions",
+  "description": "@dumi-antd/pro-descriptions",
   "keywords": [
     "antd",
     "admin",
