@@ -1,7 +1,7 @@
 {
-  "private": false,
+  "private": true,
   "license": "MIT",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "https://github.com/431910864/dumi-antd-components#readme",
   "keywords": [
     "dumi",
@@ -23,6 +23,10 @@
     "packages/*"
   ],
   "scripts": {
+    "publish": "npm run compile && lerna publish",
+    "changelog1": "lerna-changelog",
+    "clean": "lerna clean -y",
+    "bootstrap1": "lerna bootstrap",
     "bootstrap": "node ./scripts/bootstrap.js",
     "build": "npm run build-lib && webpack && node ./scripts/gen_less_entry.js",
     "build-lib": "cross-env BUILD_TYPE=lib father-build && cross-env BUILD_TYPE=es father-build",
