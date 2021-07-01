@@ -224,5 +224,8 @@
     "doc": "docs",
     "test": "tests"
   },
-  "author": ""
+  "author": "",
+  "publishConfig": {
+    "access": "public"
+  }
 }
